@@ -4,6 +4,6 @@
 My name is Chahinaz, I’m a Biomedical Engineer currently working as a Junior Developer at Qaracter.
 
 # 📫 How to reach me  
-[🌷 LinkedIn]([https://www..com/in/yourprofile](https://www.linkedin.com/in/chahinaz-el-baraky-87b222279/))  
+[🌷 LinkedIn](https://www.linkedin.com/in/chahinaz-el-baraky-87b222279/)  
 [💌 Email](elbarakychahinaz@gmail.com)
 
